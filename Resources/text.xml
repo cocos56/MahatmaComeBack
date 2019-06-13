@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+   <key>isempty</key>
+   <string>账号或密码不能为空</string>
+   <key>NoAccount</key>
+   <string>账号不存在</string>
+   <key>PasswordError</key>
+   <string>密码错误</string>
+   <key>playerNameError</key>
+   <string>角色名已被占用</string>
+   <key>guanka</key>
+   <string>请选择关卡</string>
+   <key>about</key>
+   <string>关于</string>
+   <key>notice</key>
+   <string>公告</string>
+   <key>registerTrue</key>
+   <string>注册成功，请返回登录界面</string>
+   <key>registerFalse</key>
+   <string>注册失败，账号已存在</string>
+</dict>
