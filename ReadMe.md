@@ -1,6 +1,6 @@
 
-文档地址：https://blog.csdn.net/COCO56/article/details/91038011
-开源仓库：https://github.com/COCO5666/MahatmaComeBack
+* 文档地址：https://blog.csdn.net/COCO56/article/details/91038011
+* 开源仓库：https://github.com/COCO5666/MahatmaComeBack
 ## 1. 作品介绍
 * 大圣归来（MahatmaComeBack）
 * 简介：一款基于Cocos2dx的联网游戏，含服务端与客户端源码及打包后的可执行或安装包文件。
